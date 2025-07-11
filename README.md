@@ -9,9 +9,9 @@ Testing Type: Manual – Functional, UI, Smoke
 # Included Files:
 - Test Plan (.docx)
 - Test Cases (.xlsx)
-- Bug Report (.docx)
-- Test Summary Report (.pdf)
-- Screenshots (ZIP)
+- Bug Report (.xlsx)
+- Test Summary Report 
+
 
 # Project Summary:
 This is a complete manual testing  for SauceDemo - Ecommerce Website, including test design, execution, Bug Reporting and documentation. 
