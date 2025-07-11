@@ -14,4 +14,4 @@ Testing Type: Manual – Functional, UI, Smoke
 
 
 # Project Summary:
-This is a complete manual testing  for SauceDemo - Ecommerce Website, including test design, execution, Bug Reporting and documentation. 
+This is a complete manual testing  for SauceDemo - Ecommerce Website, including test plan, test cases, test execution, Bug Reporting, and documentation. 
